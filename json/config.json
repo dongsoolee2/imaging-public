@@ -1,0 +1,11 @@
+{
+    "home": "/Users",
+
+    "mouse_num_total": 3,
+    "retina_num_total": 3,
+    "session_num_total": 9,
+
+    "proj_dir": "/dlee/imaging/",
+    "data_sort_dir": "data-sort/",
+    "data_extract_dir": "data-extract/"
+}

@@ -1,0 +1,14 @@
+*.tif
+*.h5
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints
+.Python
+__pycache__/
+matrix/
+data/
+data-sort/
+data-extract/
+.DS_Store

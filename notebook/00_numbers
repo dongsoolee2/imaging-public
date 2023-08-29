@@ -1,0 +1,17 @@
+00_numbers
+
+# numbers and statistics
+
+Total number of retina: 3 retina from 3 mice
+Total number of sessions: 9 sessions (3 + 2 + 4)
+
+Experiment #1: DL_03-217 (Ptf1a-cre::Ai148D, 
+                            genotype: Ptf1a-cre (HT), Ai148D (HT),
+                            DOB: 03/24/23, Female)
+Experiment #2: DL_03-216 (Ptf1a-cre::Ai148D,
+                            genotype: Ptf1a-cre (HT), Ai148D (HT),
+                            DOB: 03/24/23, Female)
+Experiment #3: DL_03-212 (Ptf1a-cre::Ai148D,
+                            genotype: Ptf1a-cre (HT), Ai148D (HT),
+                            DOB: 03/24/23, Female)
+Experiment #4: Stack, same as Experiment #3 (+ toward GCL, - toward outer)

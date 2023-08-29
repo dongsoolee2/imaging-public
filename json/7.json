@@ -1,0 +1,49 @@
+{
+    "exp_id": 7,
+    "exp_date": "23-06-26",
+    "exp_session": "loc3-nm-sort1",
+
+    "roi_trace": "23-06-26-loc3-nm-roi_trace.mat",
+    "roi_snap": "23-06-26-loc3-nm_1 [ch1]_roi.png",
+    "p": 17,
+
+    "pd_trace": "23-06-26-loc3-nm-pd_trace.mat",
+    "pd_threshold": 0.28,
+    "cc": "23-06-26-loc3-nm-cc.mat",
+
+    "loc": 3,
+    "wn": 0,
+    "nm": 1,
+    "zoom": 1.7,
+    "laser_percent": 35,
+    "GCL": 0,
+    "INL": 1,
+    "INLNote": "close-to-IPL",
+
+    "flipTime": 0.03336464882,
+
+    "test_repeat": 5,
+    "test_seed": "101te",
+    "test_fr": 30,
+    "test_totalFrame": 1790,
+    "test_totalFrame30": 1790,
+    "test_totalFrame60": 3580,
+    "test_box_size": 12,
+    
+    "train_repeat": 1,
+    "train_seed": "101tr",
+    "train_fr": 30,
+    "train_totalFrame": 53940,
+    "train_totalFrame30": 53940,
+    "train_totalFrame60": 107880,
+    "train_box_size": 12,
+
+    "roi_threshold": [125, 125],
+    "resp_idx": [450, -250],
+    "n_before": 40,
+    "n_after": 5,
+    "space_1_idx": [0, -0],
+    "space_2_idx": [0, -0],
+    "space_sigma": 0.7,
+    "time_sigma": 1
+}
